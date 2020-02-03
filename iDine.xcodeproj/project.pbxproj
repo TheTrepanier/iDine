@@ -21,6 +21,7 @@
 		9585627B23E850C00038341B /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585627A23E850C00038341B /* ItemDetail.swift */; };
 		9585627D23E857880038341B /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585627C23E857880038341B /* OrderView.swift */; };
 		9585627F23E8595D0038341B /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585627E23E8595D0038341B /* AppView.swift */; };
+		9585628123E85B530038341B /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9585628023E85B530038341B /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		9585627A23E850C00038341B /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		9585627C23E857880038341B /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		9585627E23E8595D0038341B /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		9585628023E85B530038341B /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				9585625C23E842440038341B /* AppDelegate.swift */,
 				9585627023E843E90038341B /* Helper.swift */,
 				9585625E23E842440038341B /* SceneDelegate.swift */,
+				9585628023E85B530038341B /* CheckoutView.swift */,
 				9585626023E842440038341B /* ContentView.swift */,
 				9585627823E84AF30038341B /* ItemRow.swift */,
 				9585627A23E850C00038341B /* ItemDetail.swift */,
@@ -172,6 +175,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9585627523E844130038341B /* Order.swift in Sources */,
+				9585628123E85B530038341B /* CheckoutView.swift in Sources */,
 				9585625D23E842440038341B /* AppDelegate.swift in Sources */,
 				9585625F23E842440038341B /* SceneDelegate.swift in Sources */,
 				9585627923E84AF30038341B /* ItemRow.swift in Sources */,
